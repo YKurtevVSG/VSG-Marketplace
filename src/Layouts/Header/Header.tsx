@@ -25,7 +25,7 @@ const Header = (props: HeaderProps): JSX.Element => {
         <header>
             <div className="left-container">
                 <NavLink to="/marketplace">
-                    <img src="./public/images/vsg-marketplace-mini-logo.png" alt="Marketplace logo" />
+                    <img src="/images/vsg-marketplace-mini-logo.png" alt="Marketplace logo" />
                 </NavLink>
                 <div className="dark-mode-switch-container">
                     <label className="toggle">
