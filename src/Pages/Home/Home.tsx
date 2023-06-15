@@ -31,7 +31,7 @@ const Home = () => {
 
     return (
         <main id="main-container-login">
-            <img src="./public/images/vsg_marketplace_logo.png" alt="VSG Marketplace Logo" />
+            <img src="/images/vsg_marketplace_logo.png" alt="VSG Marketplace Logo" />
             <Button
                 className='login-btn'
                 buttonText='LOGIN'
