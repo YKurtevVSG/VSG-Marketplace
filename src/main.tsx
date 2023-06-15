@@ -3,7 +3,7 @@ import App from './App.tsx'
 import './index.css'
 import { Provider } from 'react-redux'
 import { store } from './redux/store.ts'
-import '../public/Styles/styles.scss';
+import '../public/styles/styles.scss';
 
 import { PublicClientApplication } from '@azure/msal-browser';
 import { MsalProvider } from '@azure/msal-react';
